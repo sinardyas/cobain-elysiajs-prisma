@@ -9,7 +9,9 @@
     "elysia": "latest"
   },
   "devDependencies": {
-    "bun-types": "latest"
+    "@prisma/client": "^5.6.0",
+    "bun-types": "latest",
+    "prisma": "^5.6.0"
   },
   "module": "src/index.js"
 }
